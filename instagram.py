@@ -92,10 +92,10 @@ class Instagram:
 instagram = Instagram(username, password)
 instagram.signIn()
 #instagram.getFollowers(50)
-#instagram.followUser("kod_evreni")
+#instagram.followUser("memrek4y4")
 
 # liste = [" ", " ", " "]
 # for user in liste:
 #     instagram.followUser(user)
 
-#instagram.unFollowUser("kod_evreni")
+#instagram.unFollowUser("memrek4y4")
